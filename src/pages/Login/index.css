@@ -1,0 +1,19 @@
+.loginBox{
+    height: 100vh;
+    background-color: rgb(35, 39, 65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginBox form{
+    background-color: rgba(0,0,0,.7);
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+}
+.loginBox .title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    line-height: 80px;
+}

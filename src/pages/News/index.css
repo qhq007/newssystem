@@ -1,0 +1,10 @@
+.newsTitle{
+    margin: 10px 20px;
+}
+.newsTitle b{
+    font-size: 20px;
+}
+.newsTitle span{
+    color:#333;
+    padding-left: 15px;
+}

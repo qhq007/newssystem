@@ -1,0 +1,14 @@
+.ant-layout{
+    height: 100vh;
+}
+.ant-layout-content{
+    overflow: auto;
+}
+.newsBoxTitle{
+    font-size: 20px;
+    line-height: 80px;
+    font-weight: 600;
+}
+.hidden{
+    display: none;
+}
